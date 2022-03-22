@@ -8,17 +8,17 @@
 </head>
 <body>
     <?php 
-    /*Defineix una variable de cada tipus: integer,double,string i boolean. Després, imprimeix-les per pantalla. */ 
+        /*Defineix una variable de cada tipus: integer,double,string i boolean. Després, imprimeix-les per pantalla. */ 
 
-    $miNumeroInt=2;
-    $miNumeroDou=2.5;
-    $miPalabra="¡Hola!";
-    $logica=true;
+        $miNumeroInt=2;
+        $miNumeroDou=2.5;
+        $miPalabra="¡Hola!";
+        $logica=true;
 
-    echo $miNumeroInt. " es un número entero <br/>";
-    echo $miNumeroDou. " es un número decimal <br/>";
-    echo $miPalabra. " es una cadena de texto <br/>";
-    echo $logica. " es una variable booleana <br/>";  
+        echo $miNumeroInt. " es un número entero <br/>";
+        echo $miNumeroDou. " es un número decimal <br/>";
+        echo $miPalabra. " es una cadena de texto <br/>";
+        echo $logica. " es una variable booleana <br/>";  
     
     ?>
 </body>
